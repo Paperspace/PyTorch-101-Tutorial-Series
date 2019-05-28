@@ -4,3 +4,4 @@ This Github Repo contains the supporting Jupyter-notebooks for the Paperspace bl
 
 1. [PyTorch 101 Part 1 - Understanding Computation Graphs and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation)
 
+The notebooks and links for the rest of the parts will be updated as and when they are published.
