@@ -1,8 +1,5 @@
 # PyTorch-101-Tutorial-Series
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/Paperspace/PyTorch-101-Tutorial-Series/blob/master/PyTorch%20101%20Part%201%20-%20Computational%20Graphs%20and%20Autograd%20in%20PyTorch.ipynb)
-
-
 This Github Repo contains the supporting Jupyter-notebooks for the [Paperspace blog series on PyTorch](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/) covering everything from the basic building blocks all the way to building custom architectures. The series has following parts
 
 ## 1-Click Notebooks 
